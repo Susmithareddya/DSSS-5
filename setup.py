@@ -2,7 +2,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name='DSSS-5',
+    name='snowflake',
     version='1.0.0',
     packages=['snowflake'],
     package = find_packages(),
